@@ -8,9 +8,11 @@ Based on:
 - https://makezine.com/go/nunchuk
 
 Requires Python modules:
-- Serial https://pypi.org/project/pyserial/
-- pywin32 https://pypi.org/project/pywin32/ 
+- [Serial](https://pypi.org/project/pyserial/)
+- [pywin32](https://pypi.org/project/pywin32/)
 
 ## Running
 
-Install the mentioned Python modules using pip and run using admin rights from a python shell.
+1. Install the mentioned Python modules using pip.
+2. Run [ArduinoNunchukDemo](https://github.com/luancosta202/arduino-nunchuk/blob/master/ArduinoNunchuk/examples/ArduinoNunchukDemo/ArduinoNunchukDemo.ino) script with the [ArduinoNunchuk library](https://github.com/luancosta202/arduino-nunchuk) added to your Arduino IDE.
+3. Run the Python script using admin rights from a python shell.
