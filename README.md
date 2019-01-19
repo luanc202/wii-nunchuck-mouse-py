@@ -17,4 +17,4 @@ Requires Python modules:
 
 1. Install the mentioned Python modules using pip.
 2. Run [ArduinoNunchukDemo](https://github.com/luancosta202/arduino-nunchuk/blob/master/ArduinoNunchuk/examples/ArduinoNunchukDemo/ArduinoNunchukDemo.ino) script with the [ArduinoNunchuk library](https://github.com/luancosta202/arduino-nunchuk) added to your Arduino IDE.
-3. Run the Python script using admin rights from a python shell.
+3. Run the Python script using admin rights from a python shell. It may not work the first few times you run.
